@@ -1,8 +1,5 @@
-_time,_raw
-2024-05-19T18:17:07.149+00:00,2024-05-19T18:17:07.149426+00:00 ubu2 sshd[94169]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.38 
-2024-05-19T18:17:06.520+00:00,2024-05-19T18:17:06.520688+00:00 ubu2 sshd[94169]: Failed password for invalid user mosad1 from 192.168.1.38 port 64296 ssh2
-2024-05-19T18:17:01.168+00:00,2024-05-19T18:17:01.168587+00:00 ubu2 sshd[94169]: Failed password for invalid user mosad1 from 192.168.1.38 port 64296 ssh2
-2024-05-19T18:16:57.186+00:00,2024-05-19T18:16:57.186312+00:00 ubu2 sshd[94169]: Failed password for invalid user mosad1 from 192.168.1.38 port 64296 ssh2
-2024-05-19T18:16:54.908+00:00,2024-05-19T18:16:54.908014+00:00 ubu2 sshd[94169]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.38 
-2024-05-20T04:38:35.200+00:00,2024-05-20T04:38:35.200752+00:00 ubu2 systemd[1]: Finished update-notifier-download.service - Download data for packages that failed at package install time.
-2024-05-20T04:38:35.066+00:00,2024-05-20T04:38:35.066538+00:00 ubu2 systemd[1]: Starting update-notifier-download.service - Download data for packages that failed at package install time...
+_time,User,EventCode,Image
+2024-05-20T23:31:38.000+02:00,"['NOT_TRANSLATED', 'Saturn-24\\almog']",5,C:\Windows\System32\whoami.exe
+2024-05-20T23:19:29.000+02:00,"['NOT_TRANSLATED', 'Saturn-24\\almog']",5,C:\Windows\System32\whoami.exe
+2024-05-20T23:19:15.000+02:00,"['NOT_TRANSLATED', 'Saturn-24\\almog']",5,C:\Windows\System32\whoami.exe
+2024-05-20T21:51:39.000+02:00,"['NOT_TRANSLATED', 'Saturn-24\\almog']",5,C:\Windows\System32\whoami.exe
